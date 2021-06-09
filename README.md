@@ -1,4 +1,4 @@
-# autoDanKe
+# autoDangKe
 艾唯博瑞开发的入党教育在线平台刷课脚本
 ## 使用方法:
 直接复制脚本到console回车运行即可.
